@@ -1,0 +1,61 @@
+.SmallCard{
+    width: 234px;
+    height: 180px;
+    background-color: rgb(255, 255, 255);
+    color: rgba(50, 71, 92, 0.87);
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    box-shadow: rgba(50, 71, 92, 0.1) 0px 2px 10px 0px;
+    background-image: none;
+    border-radius: 8px;
+    position: relative;
+    box-sizing: border-box;
+    margin-left: 15px;
+}
+
+.sCardContent{
+    width: 215px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.contentText{
+    font-size: 1rem;
+    line-height: 1.5;
+    color: rgba(50, 71, 92, 0.6);
+    font-weight: 600;
+}
+.textH{
+    font-size: 1.4993rem;
+}
+.SmallGra{
+    width: 210px;
+    height: 110px;
+}
+.smTop{
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 190px;
+    height: 42px;
+    display: flex;
+    justify-content: space-between;
+}
+.smTopPic{
+    height: 42px;
+    width: 42px;
+}
+.smBottom{
+    width: 170px;
+    height: 22px;
+    margin-top: 5px;
+    margin-left: 20px;
+    display: flex;
+}
+.arrowsm{
+    color: rgb(113, 221, 55);
+    font-size: 11px;
+    font-weight: 300;
+    margin-top: 3px;
+}
+.smBottomP{
+    color: rgb(113, 221, 55);
+}

@@ -1,0 +1,38 @@
+.clickBox{
+    width: 360px;
+    height: 60px;
+    display: flex;
+}
+.cbImg{
+    width: 50px;
+    height: 50px;
+}
+.cbBox{
+    width: 215px;
+    height: 60px;
+    margin-left: 20px;
+}
+.cbTop{
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: rgba(50, 71, 92, 0.6);
+    height: 24px;
+}
+.cbdata{
+    height: 30px;
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: rgba(50, 71, 92, 0.87);
+}
+.cbTopDown{
+    display: flex;
+}
+.cbIcon{
+    width: 170px;
+    height: 22px;
+    margin-top: 6px;
+    margin-left: 5px;
+    display: flex;
+}

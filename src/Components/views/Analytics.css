@@ -1,0 +1,51 @@
+.analyticsAll{
+    box-sizing: border-box;
+    width: calc(100% - 5.5rem);
+    margin-left: 5.5rem;
+    margin-top: -1.5rem;
+    /* border: 1px solid black; */
+    height: 1725px;
+}
+
+.card{
+    width: 1430px;
+    height: 192px;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid black; */
+    margin-left: -10px;
+   
+}
+
+.RevenueCard{
+    width: 1430px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid black; */
+    margin-left: -10px;
+}
+.Statistics{
+    width: 1430px;
+    height: 530px;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid black; */
+    margin-left: -10px;
+    margin-top: -90px;
+}
+.Activity{
+    width: 1430px;
+    height: 520px;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid black; */
+    margin-left: -10px;
+    margin-top: 20px;
+}
+.Footer{
+    width: 1430px;
+    height: 32px;
+    margin-left: -10px;
+    margin-top: 20px;
+}

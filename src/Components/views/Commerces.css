@@ -1,0 +1,43 @@
+.Commerces{
+    box-sizing: border-box;
+    width: calc(100% - 5.5rem);
+    margin-left: 5.5rem;
+    margin-top: -1.5rem;
+    height: 1725px;
+}
+.visitor{
+    width: 1430px;
+    height: 210px;
+    display: flex;
+    margin-left: -10px;
+    /* margin-left: 5.5rem; */
+    /* border: 1px solid black; */
+}
+
+.income{
+    width: 1430px;
+    height: 420px;
+    display: flex;
+    margin-left: -10px;
+    /* margin-left: 5.5rem; */
+    /* border: 1px solid black; */
+    margin-top: 20px;
+}
+.Performance{
+    width: 1430px;
+    height: 465px;
+    display: flex;
+    margin-left: -10px;
+    /* margin-left: 5.5rem; */
+    /* border: 1px solid black; */
+    margin-top: 20px;
+}
+.Balance{
+    width: 1430px;
+    height: 520px;
+    display: flex;
+    margin-left: -10px;
+    /* margin-left: 5.5rem; */
+    /* border: 1px solid black; */
+    margin-top: 20px;
+}

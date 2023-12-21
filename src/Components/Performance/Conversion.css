@@ -1,0 +1,99 @@
+.Conversion{
+    width: 470px;
+    height: 465px;
+    background-color: rgb(255, 255, 255);
+      color: rgba(50, 71, 92, 0.87);
+      transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+      box-shadow: rgba(50, 71, 92, 0.1) 0px 2px 10px 0px;
+      background-image: none;
+      overflow: hidden;
+      border-radius: 8px;
+      margin-left: 20px;
+}
+
+.ConversionData{
+    width: 420px;
+    height: 75px;
+    margin-top: 35px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.ConversionDataL{
+    width: 165px;
+    height: 75px;
+    display: flex;
+}
+.ConversionDataR{
+    width: 140px;
+    height: 75px;
+
+}
+.ConversionDataPer{
+    margin-top: 15px;
+    font-size: 2.0243rem;
+    font-weight: 500;
+    font-family: "Public Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.235;
+    color: rgba(50, 71, 92, 0.87);
+
+}
+.ConreBottom{
+    width: 170px;
+    height: 22px;
+    margin-top: 25px;
+    margin-left: 15px;
+    display: flex;
+}
+.ConversionList{
+    width: 420px;
+    height: 280px;
+    margin-top: -10px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.ConListContent{
+    width: 420px;
+    height: 50px;
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.ConListContentL{
+    width: 94px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+
+}
+.ConListContentR{
+    width: 72px;
+    height: 50px;
+
+}
+.ConListContentLP{
+    margin: 0px 0px 0.1875rem;
+    font-family: "Public Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    line-height: 1.5;
+    color: rgba(50, 71, 92, 0.87);
+    font-weight: 500;
+}
+.ConListContentLPss{
+    font-family: "Public Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.43;
+    color: rgba(50, 71, 92, 0.38);
+}
+.trsmBottomPss{
+    font-family: "Public Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 0.875rem;
+    line-height: 1.43;
+    color: rgba(50, 71, 92, 0.6);
+    font-weight: 500;
+    margin-top: 8px;
+    margin-left: 8px;
+}

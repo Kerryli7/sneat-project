@@ -1,0 +1,110 @@
+.Revenue{
+    width: 912px;
+    height: 390px;
+    background-color: rgb(255, 255, 255);
+    color: rgba(50, 71, 92, 0.87);
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    box-shadow: rgba(50, 71, 92, 0.1) 0px 2px 10px 0px;
+    background-image: none;
+    border-radius: 8px;
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: wrap;
+    /* border: 1px solid black; */
+}
+.totalRevenue{
+    width: 531px;
+    height: 390px;
+    border-right: 1px solid #e9e7e7; ;
+}
+.textHRe{
+    margin-top: 5px;
+    margin-left: 10px;
+    color: rgba(50, 71, 92, 0.87);
+    font-weight: 600;
+    font-size: 1.4993rem;
+    line-height: 1.5;
+}
+.revenueShow{
+    width: 381px;
+    height: 390px;
+    position: relative;
+}
+
+.BasicSelect{
+    width: 118px;
+    height: 32px;
+    position: absolute;
+    left: 50%;
+    margin-left: -59px;
+    margin-top: 30px;
+}
+.reData{
+    width: 332px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left:  25px; 
+    display: flex;
+    flex-wrap: wrap;
+}
+.reDataLeft{
+    width: 50%;
+    height: 100%;
+
+}
+.reDataRight{
+    width: 50%;
+    height: 100%;
+
+}
+.dollar{
+    font-size: 1.25rem;
+    line-height: 1;
+    overflow: hidden;
+    user-select: none;
+    border-radius: 5px;
+    color: rgb(105, 108, 255);
+    background-color: rgba(105, 108, 255, 0.16);
+    margin-right: 0.625rem;
+    width: 38px;
+    height: 38px;
+}
+.avater{
+    margin-left: 30px;
+}
+.dataContent{
+    width: 180px;
+    height: 40px;
+    margin-top: -44px;
+    margin-left: 75px
+}
+.dataText{
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: rgba(50, 71, 92, 0.6);
+    font-weight: 600;
+}
+.dataH{
+    font-size: 1.2rem;
+}
+.dataTop{
+    margin-left: -5px;
+    width: 190px;
+    height: 42px;
+    display: flex;
+    justify-content: space-between;
+}
+.dataTopPic{
+    height: 42px;
+    width: 42px;
+}
+.dataContentR{
+    width: 180px;
+    height: 40px;
+    margin-top: -45px;
+    margin-left:44px
+}
+.Growth{
+    margin-left: 60px;
+}
